@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-23T02:35:04.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="TK9E5tlcz1NWovIFin7o" version="12.2.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-23T02:38:41.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="tMIMdEgcrABfhLkmAVCL" version="12.2.9" type="github" pages="3">
   <diagram id="mkCGWz3tRu-jMJ5IsVwR" name="Page-1">
-    <mxGraphModel dx="1128" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -303,9 +303,6 @@
         </mxCell>
         <mxCell id="ZRHdMksBV3v8EwZyY3YF-142" value="对每个分析维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="279.5" y="294" width="110" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZRHdMksBV3v8EwZyY3YF-146" value="选择另一个分析维度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="138" y="334.5" width="87" height="21" as="geometry"/>
         </mxCell>
         <mxCell id="ZRHdMksBV3v8EwZyY3YF-150" value="导出大户名单" style="text;html=1;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="120" y="478" width="130" height="40" as="geometry"/>
