@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-23T03:41:39.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="eOR97aCH09LfRD25Qo0M" version="12.2.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-23T05:42:06.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="OdFW2duGu_4jvJCWqlCm" version="12.2.9" type="github" pages="4">
   <diagram id="mkCGWz3tRu-jMJ5IsVwR" name="Page-1">
     <mxGraphModel dx="1128" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HkLab05c3B0aFhE1GghW" name="Page-2">
-    <mxGraphModel dx="1635" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q15bHHOJwb6plhw7r9XP-0"/>
         <mxCell id="q15bHHOJwb6plhw7r9XP-1" parent="q15bHHOJwb6plhw7r9XP-0"/>
@@ -387,7 +387,7 @@
         <mxCell id="lJZ664qMaKWTh30dhIbK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" source="lJZ664qMaKWTh30dhIbK-14" target="lJZ664qMaKWTh30dhIbK-5" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="lJZ664qMaKWTh30dhIbK-14" value="营销系统&lt;br&gt;数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" vertex="1">
+        <mxCell id="lJZ664qMaKWTh30dhIbK-14" value="营销系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" vertex="1">
           <mxGeometry x="240" y="380" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="lJZ664qMaKWTh30dhIbK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" source="lJZ664qMaKWTh30dhIbK-15" target="lJZ664qMaKWTh30dhIbK-17" edge="1">
@@ -414,7 +414,7 @@
         <mxCell id="lJZ664qMaKWTh30dhIbK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" source="lJZ664qMaKWTh30dhIbK-17" target="lJZ664qMaKWTh30dhIbK-21" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="lJZ664qMaKWTh30dhIbK-17" value="零售客户网上&lt;br&gt;订货记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" vertex="1">
+        <mxCell id="lJZ664qMaKWTh30dhIbK-17" value="专卖系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" vertex="1">
           <mxGeometry x="400" y="380" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="lJZ664qMaKWTh30dhIbK-18" value="客户名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" vertex="1">
@@ -435,7 +435,7 @@
         <mxCell id="lJZ664qMaKWTh30dhIbK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" source="lJZ664qMaKWTh30dhIbK-22" target="lJZ664qMaKWTh30dhIbK-24" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="lJZ664qMaKWTh30dhIbK-22" value="专卖系统&lt;br&gt;数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" vertex="1">
+        <mxCell id="lJZ664qMaKWTh30dhIbK-22" value="专卖系统&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" vertex="1">
           <mxGeometry x="560" y="380" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="lJZ664qMaKWTh30dhIbK-23" value="外流客户数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" parent="q15bHHOJwb6plhw7r9XP-1" vertex="1">
@@ -514,7 +514,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4Jfd0S_tCRhBiCQN7AZU" name="多维度分析模块示意图">
-    <mxGraphModel dx="454" dy="226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NAGiehs7lIZlc0TLEsgw-0"/>
         <mxCell id="NAGiehs7lIZlc0TLEsgw-1" parent="NAGiehs7lIZlc0TLEsgw-0"/>
