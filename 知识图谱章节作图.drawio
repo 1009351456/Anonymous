@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-28T08:27:17.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="6wJMcdrg4DEsiLaiVyk_" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-28T13:25:29.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="McSU6GXFi0bqzTwXgsjz" version="12.3.2" type="github" pages="1">
   <diagram id="_D0R9UUpjnsch7wpPBGB" name="Page-1">
-    <mxGraphModel dx="1128" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -37,8 +37,8 @@
         <mxCell id="RJKqDijKu-WlhtUEkn75-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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MDEtMDlUMDQ6MDM6MTIrMDg6MDBrhHtEAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE5LTAxLTA5VDA0OjAzOjEyKzA4OjAwGtnD+AAAAEN0RVh0c29mdHdhcmUAL3Vzci9sb2NhbC9pbWFnZW1hZ2ljay9zaGFyZS9kb2MvSW1hZ2VNYWdpY2stNy8vaW5kZXguaHRtbL21eQoAAABjdEVYdHN2Zzpjb21tZW50ACBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIM5IkAsAAAAYdEVYdFRodW1iOjpEb2N1bWVudDo6UGFnZXMAMaf/uy8AAAAYdEVYdFRodW1iOjpJbWFnZTo6SGVpZ2h0ADk2MCfYXQ4AAAAYdEVYdFRodW1iOjpJbWFnZTo6V2lkdGgAMTE3Mme5P+MAAAAZdEVYdFRodW1iOjpNaW1ldHlwZQBpbWFnZS9wbmc/slZOAAAAF3RFWHRUaHVtYjo6TVRpbWUAMTU0Njk3Nzc5Mu5jAecAAAASdEVYdFRodW1iOjpTaXplADIwNDI5QheTWOcAAABidEVYdFRodW1iOjpVUkkAZmlsZTovLy9ob21lL3d3d3Jvb3QvbmV3c2l0ZS93d3cuZWFzeWljb24ubmV0L2Nkbi1pbWcuZWFzeWljb24uY24vZmlsZXMvMTIwLzEyMDU5ODQucG5nzyh6IQAAAABJRU5ErkJggg==;" vertex="1" parent="1">
           <mxGeometry x="407" y="69.5" width="60" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="RJKqDijKu-WlhtUEkn75-6" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="339" y="105" width="168" height="70" as="geometry"/>
+        <mxCell id="RJKqDijKu-WlhtUEkn75-6" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;rotation=180;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="339" y="105" width="177" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="RJKqDijKu-WlhtUEkn75-5" value="卷烟大户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=4;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="450" y="145" width="57" height="24" as="geometry"/>
@@ -87,6 +87,12 @@
             <mxPoint x="330" y="163" as="sourcePoint"/>
             <mxPoint x="410" y="105" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RJKqDijKu-WlhtUEkn75-22" value="内管员工" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ikooni-outline-free-basic/128/free-17-128.png;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="70" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="RJKqDijKu-WlhtUEkn75-23" value="信息管理员" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ikooni-outline-free-basic/128/free-17-128.png;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="70" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
