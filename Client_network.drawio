@@ -1,1 +1,79 @@
-<mxfile modified="2019-08-17T09:08:08.593Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="qqnfKCLY4CyM1TGnlvcR" version="11.1.4" type="github"><diagram id="0qXy8Reg5hbOZOl-131f" name="Page-1">3Vpbj+o2EP41ftwqjh1n/Jiw4VRqq0q7lfociLmogdBstrD99fUtQLDPWU4PBIKEwJncv88z880YREar3Zc63yx+qwpRojAodog8ozDEEID8UZYPY6GcGMO8Xhb2oIPhdfmvsMbAWt+XhXjrHNhUVdksN13jtFqvxbTp2PK6rrbdw2ZV2b3rJp8Lx/A6zUvX+ueyaBbGCmF8sP8slvNFe2fMuNmzytuD7Zu8LfKi2h6ZSIbIqK6qxoxWu5EoFXgtLua88Vf27h+sFuvmnBOql83Ler7+8vvL9hf449enWTJ/eQrNVf7Jy3f7wvZhm48Wgbp6XxdCXSRAJN0ulo143eRTtXcrOZe2RbMq5RaWw1m1biyJXG7aq4u6EbuvPjbegyFnkahWoqk/5CH2hJj/FJlz2hkUM7O9PfBBqQV5ccQFtUzkdgrM99c+oCQHFqjvAI3ePWgQdCDbz8HPIMNBdCXMmItZBijBKAGUxQgylAYoi1CKEfwonMuyHFVlVetzSZELmE2l/a2pq7/E0R42BTGZtQTYu+ELwP8UnMxZHwFxr/jHHvwZ4pGGnSF4RkmmBmmCePBw+NM4Ogv/KLgS/NwDf6wg57FGnSgqMo6k4wLXhKQo4d/gAX83DzOYiqmXhwlENAq6gSi6TCAKCe46AnGJwKGHCXItJlph0YnerGwUMJt83cGb/f2usrPG5elNA5PIAzDe7A475Wiuf2X0koQm2rEAUBorC0SKXMm1/E5TPXhGHOtBiviovfek3l/HWuTbmQdqzZecC7NZ6J8LBZuwiF1lLvDwNCrefjJgdzIoGilK4iMaKUrHKlcpi8xYYx06pSXSOWysOB+8pxJ2KrTugB6fPL2Mr4JiGKh2UUCca4sUIZl1Y57cyDNvwb3rmeDqlZ6pJ37PPAmwPs9MZA5ts2oCw4+bJCb3Ro6nAjJh0wAvCZH8WAtVuU5qSmDDp8KRMzenIjxPWUoVwrUQkeFurDT/wyn84DyFz65FBPHpyvvqCsRwBmiU4j5R8wkwI43HNiWr6K6TtAwgSndl3y5QBxJJID7lwtMi4HGPkYR4xJbCe6R6ApIBqZESE9SfUcJ06uUq17rRZvDk0CD4lBvgfXLjU0OuhNXB3RSXpqE2eCZCepaf9JlxqS9kSWcAVTMoChIdsnQvJ9WVhiwqOB5sxrW4E+Li7k2w1+pgUl8x+COYXiKKd+OEDyN/Pr0aSJFncroNDflNdRA3cjC2fQxgNpgkj9Bu6lZNhIIbw/vMr5FHICpdPlILHmoA6qNqJaoT7RFZ8jmTfWwBT6k1eLIwp5+yhQPWJ10+T3LJibRA0ktXYJSSs6pySXKKSEBBfeRAOCGsp8YtBXcJtl9f8i0n+siRMgj2Yc635DV4cnBbJOy5cWu6frnxLTW63MRKsSp9xNXA1nYPxg0JsOM5t2YHzvUcU3DHakVe0fR47NA2n9xLVGP/VyFw1RRXlSDY4nzweoDgE2Xt0QMxeLgJr8XNeSuFx4tIRqI9nrA+7Y54lfVluiNy8/AHOb3v6G+GJPsP</diagram></mxfile>
+<mxfile modified="2019-12-13T01:08:32.233Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="rWB8Wd5jMuRuTM1rghnY" version="12.4.1" type="github" pages="1">
+  <diagram id="0qXy8Reg5hbOZOl-131f" name="Page-1">
+    <mxGraphModel dx="1761" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="79.5" y="476" width="440" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="80" y="220" width="440" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-6" value="表现层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-0.5" y="220" width="70" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-7" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-0.5" y="475" width="70" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-9" value="大户信息导出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="231" y="235" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-10" value="&lt;span style=&quot;font-size: 11px&quot;&gt;客户关系网络可视化&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="93" y="235" width="117" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-13" value="客户信息标注" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="372" y="235" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-29" value="算法平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-0.5" y="405" width="70" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="78.5" y="405" width="441" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-31" value="单维度分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="130" y="420" width="97" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-32" value="聚类" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="351" y="420" width="89" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-33" value="多维度综合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="244" y="420" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-41" value="业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry y="330" width="70" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="330" width="441" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-45" value="大户列表维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="93" y="348" width="87" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-50" value="零售客户社交关系分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="194" y="348" width="106" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-55" value="客户门店位置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="92.5" y="486" width="87" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-56" value="客户历史" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="197" y="485" width="87" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-57" value="客户操作记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="301.5" y="485" width="87" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-58" value="客户分类标签" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="406" y="486" width="87" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-60" value="分析维度&lt;br&gt;维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="310" y="348" width="78" height="32" as="geometry"/>
+        </mxCell>
+        <mxCell id="oRpRngnGORwK8TL-fAgR-61" value="客户信息整合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=5;" parent="1" vertex="1">
+          <mxGeometry x="400" y="348" width="89" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="fEOjPpR1VwwC_F3uVTrE-1" value="内管系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="440" height="35" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
