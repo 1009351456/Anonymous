@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-13T01:08:32.233Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="rWB8Wd5jMuRuTM1rghnY" version="12.4.1" type="github" pages="1">
+<mxfile modified="2019-12-19T15:14:44.009Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="uUNjCExAEBdGv4gZPsEQ" version="12.4.3" type="github" pages="1">
   <diagram id="0qXy8Reg5hbOZOl-131f" name="Page-1">
     <mxGraphModel dx="1761" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="oRpRngnGORwK8TL-fAgR-9" value="大户信息导出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=5;" parent="1" vertex="1">
           <mxGeometry x="231" y="235" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="oRpRngnGORwK8TL-fAgR-10" value="&lt;span style=&quot;font-size: 11px&quot;&gt;客户关系网络可视化&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=5;" parent="1" vertex="1">
+        <mxCell id="oRpRngnGORwK8TL-fAgR-10" value="&lt;span style=&quot;font-size: 11px&quot;&gt;客户关系网络&lt;br&gt;可视化&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=5;" parent="1" vertex="1">
           <mxGeometry x="93" y="235" width="117" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="oRpRngnGORwK8TL-fAgR-13" value="客户信息标注" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=5;" parent="1" vertex="1">
@@ -70,7 +70,7 @@
         <mxCell id="oRpRngnGORwK8TL-fAgR-61" value="客户信息整合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=5;" parent="1" vertex="1">
           <mxGeometry x="400" y="348" width="89" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="fEOjPpR1VwwC_F3uVTrE-1" value="内管系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fEOjPpR1VwwC_F3uVTrE-1" value="内管系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="290" width="440" height="35" as="geometry"/>
         </mxCell>
       </root>
