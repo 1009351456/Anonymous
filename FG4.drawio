@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-19T07:25:06.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="U8PeyVV-1vsRKUGm6D2d" version="12.5.5" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-19T07:51:16.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="CcOYegnacLtM5SfPOqp1" version="12.5.5" type="github" pages="3">
   <diagram id="iteJpDz0SOA4dC_pRFCU" name="Page-1">
     <mxGraphModel dx="4328" dy="2525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2418,7 +2418,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FmiEGDtEewOgQUB2yMlD" name="Page-3">
-    <mxGraphModel dx="2119" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2610" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="83cOk7dnoGI_nK23UZU1-0"/>
         <mxCell id="83cOk7dnoGI_nK23UZU1-1" parent="83cOk7dnoGI_nK23UZU1-0"/>
@@ -4295,31 +4295,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="clBk_QKcx1qhBhxoYDzY-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;strokeWidth=3;" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
-          <mxGeometry x="842.5" y="760" width="597.5" height="180" as="geometry"/>
+          <mxGeometry x="841.25" y="763" width="1068.75" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="clBk_QKcx1qhBhxoYDzY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=60;" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
           <mxGeometry x="850" y="780" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="clBk_QKcx1qhBhxoYDzY-2" value="GCN Layer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=34;fontStyle=1" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
-          <mxGeometry x="950" y="780" width="190" height="60" as="geometry"/>
+        <mxCell id="clBk_QKcx1qhBhxoYDzY-2" value="Spatial graph convolution layer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=34;fontStyle=1" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
+          <mxGeometry x="932.25" y="780" width="520" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="clBk_QKcx1qhBhxoYDzY-3" value="" style="whiteSpace=wrap;html=1;fillColor=#A7BCD1;strokeColor=#6c8ebf;verticalAlign=middle;gradientColor=none;rounded=1;opacity=60;" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
           <mxGeometry x="850" y="868.0999999999999" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="clBk_QKcx1qhBhxoYDzY-4" value="TCN Layer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=34;fontStyle=1" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
-          <mxGeometry x="950" y="871.6" width="190" height="60" as="geometry"/>
+        <mxCell id="clBk_QKcx1qhBhxoYDzY-4" value="Temporal convolution layer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=34;fontStyle=1" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
+          <mxGeometry x="932.5" y="871.6" width="480" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="clBk_QKcx1qhBhxoYDzY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#fff2cc;fontSize=77;opacity=60;strokeColor=#d6b656;" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
-          <mxGeometry x="1175.5" y="780" width="80" height="60" as="geometry"/>
+          <mxGeometry x="1450.5" y="780" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="clBk_QKcx1qhBhxoYDzY-6" value="FC Layer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=34;fontStyle=1" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
-          <mxGeometry x="1275.5" y="780" width="200" height="60" as="geometry"/>
+        <mxCell id="clBk_QKcx1qhBhxoYDzY-6" value="Fully-connected layer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=34;fontStyle=1" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
+          <mxGeometry x="1540.5" y="780" width="369.5" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="clBk_QKcx1qhBhxoYDzY-7" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#f8cecc;fontSize=77;opacity=60;strokeColor=#b85450;" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
-          <mxGeometry x="1175.5" y="854.5" width="80" height="60" as="geometry"/>
+          <mxGeometry x="1452.25" y="868.1" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="clBk_QKcx1qhBhxoYDzY-8" value="Result" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=34;fontStyle=1" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
-          <mxGeometry x="1275.5" y="854.5" width="160" height="60" as="geometry"/>
+        <mxCell id="clBk_QKcx1qhBhxoYDzY-8" value="Classification result" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=34;fontStyle=1" vertex="1" parent="83cOk7dnoGI_nK23UZU1-1">
+          <mxGeometry x="1540.5" y="868.1" width="349.5" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
